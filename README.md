@@ -12,6 +12,7 @@
 - **Programming Languages:** R Programming, Python, SQL 
 - **Analysing Tools:** Tableau, PowerBI, Excel
 - **Web Technologies:** HTML, CSS, Java Script
+- **Big Data**: Fundamentals of Apache Spark and Apache Hadoop
 
 <!---
 HariKiran30/HariKiran30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
