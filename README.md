@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ... HIT3😄
 
 # My Skills
-- **Programming Languages:** R Programming, Python, SQL 
+- **Programming Languages:** R Programming, Python, SQL, JAVA, C++
 - **Analysing Tools:** Tableau, PowerBI, Excel
 - **Web Technologies:** HTML, CSS, Java Script
 - **Big Data:** Fundamentals of Apache Spark and Apache Hadoop
