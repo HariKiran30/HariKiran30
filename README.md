@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on Data Analysis, R Programming, Python, Frontend
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... HIT3😄
+- Take a look at my portfolio: (https://harikiran30.github.io/Hari-kiran-Portfolio-/)
+
 
 # My Skills
 - **Programming Languages:** R Programming, Python, SQL, JAVA
