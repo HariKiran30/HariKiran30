@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m @HariKiran30
-- 👀 I’m interested in ... Data Analysis
+- 👀 I’m interested in ... Data Analysis | Frontend
 - 🌱 CSE Graduate from LPU (2024)
 - 🤔 I’m looking for help with Data Science
 - 📫 How to reach me: linkedin: [@Hari Kiran Tiriveedi](https://www.linkedin.com/in/hari-kiran-tiriveedi/), Instagram: [@harikiran__](https://www.instagram.com/harikiran__/)
