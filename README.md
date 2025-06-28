@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Data Analysis | Frontend
 - 🌱 CSE Graduate from LPU (2024)
 - 🤔 I’m looking for help with Data Science
-- 📫 How to reach me: linkedin: [@Hari Kiran Tiriveedi](https://www.linkedin.com/in/hari-kiran-tiriveedi/), Instagram: [@harikiran__](https://www.instagram.com/harikiran__/)
+- 📫 How to reach me: linkedin: [@Hari Kiran Tiriveedi](https://www.linkedin.com/in/hari-kiran-tiriveedi/)
 - 👯 I’m looking to collaborate on Data Analysis, R Programming, Python, Frontend
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... HIT3😄
