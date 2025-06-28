@@ -4,7 +4,7 @@
 - 🌱 CSE Graduate from LPU (2024)
 - 🤔 I’m looking for help with Data Science
 - 📫 How to reach me: linkedin: [@Hari Kiran Tiriveedi](https://www.linkedin.com/in/hari-kiran-tiriveedi/)
-- 👯 I’m looking to collaborate on Data Analysis, R Programming, Python, Frontend
+- 👯 I’m looking to collaborate on Data Analysis, AI, ML, Frontend
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... HIT3😄
 - Take a look at my portfolio: (https://harikiran30.github.io/Portfolio/)
