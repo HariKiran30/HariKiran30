@@ -12,7 +12,8 @@
 
 # My Skills
 - **Programming Languages:** R Programming, Python, SQL, JAVA
-- **Analysing Tools:** Tableau, PowerBI, Excel
+- **Data Visualization:** Streamlit, Excel, Tableau
+- **API’s & Deployment:** Flask, FastAPI 
 - **Web Technologies:** HTML, CSS, Java Script
 - **Big Data:** Fundamentals of Apache Spark and Apache Hadoop
 
