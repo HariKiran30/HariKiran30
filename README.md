@@ -1,6 +1,7 @@
 # About Me
 - 👋 Hi, I’m @HariKiran30
-- 👀 I’m interested in ... Data Analysis | Frontend
+- OCI Certified Generative AI Professional 20205 (Oracle)
+- 👀 I’m interested in ... Data Analysis | AI & ML | Frontend
 - 🌱 CSE Graduate from LPU (2024)
 - 🤔 I’m looking for help with Data Science
 - 📫 How to reach me: linkedin: [@Hari Kiran Tiriveedi](https://www.linkedin.com/in/hari-kiran-tiriveedi/)
