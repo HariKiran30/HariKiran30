@@ -12,7 +12,7 @@
 
 
 # My Skills
-- **Programming Languages:** R Programming, Python, SQL, JAVA
+- **Programming Languages:** Python, SQL, JAVA
 - **Data Visualization:** Streamlit, Excel, Tableau
 - **API’s & Deployment:** Flask, FastAPI 
 - **Web Technologies:** HTML, CSS, Java Script
