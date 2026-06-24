@@ -1,22 +1,12 @@
 # About Me
 - 👋 Hi, I’m @HariKiran30
+- Azure Data Engineer
 - OCI Certified Generative AI Professional 20205 (Oracle)
-- 👀 I’m interested in ... Data Analysis | AI & ML | Frontend
-- 🌱 CSE Graduate from LPU (2024)
-- 🤔 I’m looking for help with Data Science
-- 📫 How to reach me: linkedin: [@Hari Kiran Tiriveedi](https://www.linkedin.com/in/hari-kiran-tiriveedi/)
-- 👯 I’m looking to collaborate on Data Analysis, AI, ML, Frontend
+- 🌱 CSE Graduate from LPU 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... HIT3😄
-- Take a look at my portfolio: (https://harikiran30.github.io/Portfolio/)
 
 
-# My Skills
-- **Programming Languages:** Python, SQL, JAVA
-- **Data Visualization:** Streamlit, Excel, Tableau
-- **API’s & Deployment:** Flask, FastAPI 
-- **Web Technologies:** HTML, CSS, Java Script
-- **Big Data:** Fundamentals of Apache Spark and Apache Hadoop
 
 <!---
 HariKiran30/HariKiran30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
